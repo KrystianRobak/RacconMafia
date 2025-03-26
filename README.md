@@ -6,10 +6,10 @@
 
 - Customers will enter the laundromat and place their orders.
 - Each order consists of possible laundry tasks such as:
-  -  **Washing** – Put dirty clothes in the washing machine.
-  -  **Drying** – Move washed clothes to the dryer.
-  -  **Dyeing** – Apply the requested color to clothes.
-  -  **Ironing** – Make clothes smooth and wrinkle-free.
+  -  **Washing**
+  -  **Drying**
+  -  **Dyeing**
+  -  **Ironing**
 - Players must complete the orders within a limited time to earn rewards.
 - Delayed or failed orders will cause customers to leave unhappy, reducing profits.
 - The difficulty increases as more customers arrive with complex requests.
