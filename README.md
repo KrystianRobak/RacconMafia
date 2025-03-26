@@ -1,6 +1,6 @@
 # RaccoonMafia
 
-**Laundry Raccoon** is my attempt at recreating a fast-paced cooperative time-management game in **Unreal Engine 5**, inspired by *Overcooked*. Players take on the role of an adorable yet hard-working raccoon running a busy laundromat. The goal is to complete customers' laundry requests before they get impatient and leave, earning as much money and reputation as possible.
+**Laundry Raccoon** is my attempt at recreating a fast-paced cooperative time-management game in **Unreal Engine 5**, inspired by *Overcooked*. Player take on the role of an adorable yet hard-working raccoon running a busy laundromat. The goal is to complete customers' laundry requests before they get impatient and leave, earning as much points as possible.
 
 ##  Gameplay
 
